@@ -55,7 +55,7 @@
 #define _APP_AUTHOR      "Radislav Golubtsov <ragolubtsov@my.com>"
 
 /** The device node to test. */
-#define _DEVNODE_HUB "/dev/"
+#define _DEVNODE_HUB "/dev/block/"
 #define _MODULE_NAME "virtblkiosim"
 
 /** Constant: Print this when there is insufficient number of args passed. */
